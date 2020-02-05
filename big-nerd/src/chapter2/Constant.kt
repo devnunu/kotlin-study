@@ -1,4 +1,4 @@
-package capter1
+package chapter2
 
 fun main(args: Array<String>) {
     val playerName: String = "에스트라곤"
